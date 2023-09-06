@@ -1,0 +1,12 @@
+GEM
+  specs:
+    open3 (0.1.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  open3
+
+BUNDLED WITH
+   2.4.19
