@@ -17,7 +17,7 @@ Section
    File Gemfile
    File gwbash.rb
    Exec "C:\Ruby32\bin\bundle.exe"
-   File /oname="LICENSE.txt" LICENSE
+   File /oname=LICENSE.txt LICENSE
    CreateShortCut "$DESKTOP\gwbash.lnk" "gwbash.rb"
    WriteUninstaller "uninst.exe"
 SectionEnd
