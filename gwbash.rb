@@ -3,6 +3,8 @@ require 'open3'
 MINGW_DIR = 'C:\MinGW\bin'
 
 def mingw_bash_emulator
+  puts "GWBash - A MinGW bash emulator written with Ruby"
+  puts "Written by B. Chabiene, licensed with GNU GPL v3"
   loop do
     print "GWBash $ "
     command = gets.chomp

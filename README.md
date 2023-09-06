@@ -16,6 +16,11 @@ Go to the folder you extracted the ZIP to and run both these commands
 ```
 or run ``` bundle ``` and double click the gwbash.rb file!
 
+> Note: I will put a NSIS binary to install this
+
+
+
+
 
 
 [RubyInstaller]: https://rubyinstaller.org
