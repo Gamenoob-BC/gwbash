@@ -1,6 +1,6 @@
 require 'open3'
 
-MINGW_DIR = 'C:\MinGW\bin' # Update this with your MinGW installation path
+MINGW_DIR = 'C:\MinGW\bin'
 
 def mingw_bash_emulator
   loop do
