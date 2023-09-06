@@ -2,8 +2,8 @@ Name "GWBash Installer"
 InstallDir "$TEMP\GWBash\"
 OutFile "gwbashinst.exe"
 RequestExecutionLevel admin
-Page directory
 Page license
+Page directory
 LicenseData LICENSE
 Page components
 Page instfiles
